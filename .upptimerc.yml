@@ -7,7 +7,7 @@ sites:
     url: https://unbia.st
   - name: Unbiast Nitter
     url: https://nitter.unbia.st
-  - name: Files Mirror
+  - name: File Mirror
     url: https://files.unbia.st
 
 status-website:
