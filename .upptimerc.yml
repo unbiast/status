@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.unbia.st
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://archive.ph/IRg2o/c583bafe6ae459f4814f23f71670857a719fcff7.png
   name: Unbiast Status
   
 # Upptime also supports notifications, assigning issues, and more
