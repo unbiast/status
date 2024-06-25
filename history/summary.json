@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unbia.st.ico",
     "slug": "unbiast-blog",
     "status": "down",
-    "uptime": "26.53%",
+    "uptime": "26.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 919,
+    "time": 922,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-24": 30,
+      "2024-06-25": 28,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -379,8 +380,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
-      "2023-06-27": 1440,
-      "2023-06-26": 1440
+      "2023-06-27": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.unbia.st.ico",
     "slug": "unbiast-nitter",
     "status": "down",
-    "uptime": "26.53%",
+    "uptime": "26.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 915,
+    "time": 911,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-24": 30,
+      "2024-06-25": 28,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -763,8 +764,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
-      "2023-06-27": 1440,
-      "2023-06-26": 1440
+      "2023-06-27": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.unbia.st.ico",
     "slug": "file-mirror",
     "status": "down",
-    "uptime": "26.80%",
+    "uptime": "26.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 290,
+    "time": 289,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-24": 30,
+      "2024-06-25": 28,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -1147,8 +1148,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
-      "2023-06-27": 1440,
-      "2023-06-26": 1440
+      "2023-06-27": 1440
     }
   }
 ]
