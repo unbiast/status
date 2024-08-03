@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unbia.st.ico",
     "slug": "unbiast-blog",
     "status": "down",
-    "uptime": "24.84%",
+    "uptime": "24.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 629,
+    "time": 633,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 30,
+      "2024-08-03": 29,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -379,8 +380,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.unbia.st.ico",
     "slug": "unbiast-nitter",
     "status": "down",
-    "uptime": "24.85%",
+    "uptime": "24.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 772,
+    "time": 776,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 30,
+      "2024-08-03": 29,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -763,8 +764,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.unbia.st.ico",
     "slug": "file-mirror",
     "status": "down",
-    "uptime": "25.10%",
+    "uptime": "25.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 291,
+    "time": 294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 30,
+      "2024-08-03": 29,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -1147,8 +1148,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   }
 ]
